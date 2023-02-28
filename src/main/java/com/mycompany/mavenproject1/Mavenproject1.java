@@ -66,7 +66,7 @@ public class Mavenproject1 {
         } else 
         {   System.out.println("cate c"); }
        
-        // sera que a esto se referia con un txt?
+        // sera que a esto se referia con un txt? xd
         
     }
 }
